@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main(){
+ 
+    //it's my chance to be useful, and i make a thing.
+   
+    printf("i don't know to make a game, i'm foolish.\n");
+    printf("i'm so useless...\n");
+    printf("no, i will become more useful");        
+    return 0;
+}
+
+/*
+
+i exit the logic of this world hahahaha
+
+*/
+
