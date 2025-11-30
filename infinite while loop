@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+
+    //hehehehehehe while loop
+
+    while (1==1){
+        printf("I use arch btw");
+    }
+
+
+
+    return 0;
+}
