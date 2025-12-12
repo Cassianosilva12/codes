@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int main(void)  {
+
+    int num1 = 1;
+    int num2 = 2;
+    int num3 = 3;
+    int choose;
+
+    printf("soooo, what is you favorite food?");
+    printf("1:brocolis\n2:fast food\n3:you\n");
+
+    printf("say to me:\n");
+
+    if(scanf("%d", &choose)!= 1){
+        printf("nope, no\n");
+        return 1;
+    }  
+
+    if(choose == num1){
+        printf("wow, me tooooo\n");
+    } else if(choose == num2) {
+        printf("you are fat?!\n");
+    } else {
+        printf("eeeeeek! Your pervert\n");
+    }
+
+
+    return 0;
+
+
+    
+
+    
+    
+
+    
+   
+
+}
